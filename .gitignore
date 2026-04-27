@@ -1,0 +1,16 @@
+# compiled binary
+lira
+
+# sqlite database
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store
+
+# editor
+.idea/
+.vscode/
+*.swp
+*.swo
